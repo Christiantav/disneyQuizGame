@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-image: url(http://wallpapercave.com/wp/NmyRxfs.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    min-width: 100%;
+}
+
+.outter-layer {
+    padding-top: 20%;
+}
+
+button {
+    margin: 10px;
+}
